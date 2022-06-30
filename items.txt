@@ -1,0 +1,6 @@
+Twisties;1.9;17
+Mamee;2.5;14
+Mee-Mee;1.5;22
+Super-Ring;2.2;5
+Tam-Tam;1.7;12
+Mysties;2.8;12
